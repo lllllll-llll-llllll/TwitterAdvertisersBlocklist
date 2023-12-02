@@ -1,2 +1,2 @@
 # TwitterAdvertisersBlocklist
-This is a big list of twitter handles that are being displayed as ads.
+This is a big list of twitter accounts that have been displayed as an advertisement on my feed
